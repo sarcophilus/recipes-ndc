@@ -5,4 +5,4 @@
 * Eggs
 * Oil
 
-Stir and cook at 350F
+Stir and cook at 190C
